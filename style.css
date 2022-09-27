@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+#video
+{
+width: 100%;
+height: 500px;
+border: none;
+}
+.mhcss
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.mhcss i
+{
+    float: right;
+}
+.achevment_text span
+{
+    color: orange;
+}
